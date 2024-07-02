@@ -1,6 +1,7 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/hollingerj-lm_py_7030_jh-ta2nyetc/lab/tree/lm_py.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollingerj/lm_py_7030_JH/main
+)
 
 A Binder-compatible repo with an `environment.yml` file.
 
